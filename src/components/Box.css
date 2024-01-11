@@ -1,0 +1,17 @@
+.box{
+    background-color: rgb(226, 232, 238);
+    width:1.2em;
+    height:1.2em;
+    margin:0.5em;
+    line-height: 1rem;
+    font-size: 4em;
+    border-radius:0.1em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0px 0px 8px rgb(150, 148, 148);
+}
+.x{
+    color: red;
+}
+.o{
+ color: rgb(16, 75, 226);
+}
